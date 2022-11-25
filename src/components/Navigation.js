@@ -4,7 +4,7 @@ const Navigation = () => {
   return (
     <Navbar bg="dark" variant="dark" expand="lg">
       <Container>
-        <Navbar.Brand href="#">MASTECH</Navbar.Brand>
+        <Navbar.Brand href="#">Sekolah Menengah Atas</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
